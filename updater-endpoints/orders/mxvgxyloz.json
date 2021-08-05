@@ -1,0 +1,20 @@
+{
+    "order_id": "mxvgxyloz",
+    "session_id": "fn7ssy7gx",
+    "first_name": "Nareg",
+    "last_name": "Khodanian",
+    "income_band": "$100",
+    "address": "10016 Marnice Ave, Tujunga, CA 91042",
+    "selected_offer": [
+        {
+            "unique_id": "1",
+            "speed": "10 mbps",
+            "cost": "$19.99"
+        }
+    ],
+    "eligibility": true,
+    "installation": {
+        "confirmation": true,
+        "date_time": 1628193600000
+    }
+}
